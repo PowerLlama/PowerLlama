@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @powerllama
 - 🌱 I’m currently learning ... Python, and scripting Nuke!
-- 📫 How to reach me ... twitter: [@powerllama](https://twitter.com/powerllama)
+- 📫 How to reach me ... mastodon: [@powerllama](https://duck.haus/@powerllama)
 
 <!---
 PowerLlama/PowerLlama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
